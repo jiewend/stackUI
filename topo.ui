@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Topo</class>
+ <widget class="QDialog" name="Topo">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="btn_changeTracefile">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>365</y>
+     <width>115</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>change tracefile</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
